@@ -7,4 +7,4 @@
 
 1. Download the Logicdata file from [here](https://github.com/RanitPradhan/LOGICDATA/blob/master/challenge1.logicdata)
 2. Open the `challenge1.logicdata` file and follow the steps
-3. <img src="https://6e726d.github.io/Challenge/Ekoparty15/files/00.png">
+3. <img src="https://github.com/RanitPradhan/LOGICDATA/blob/master/images/img_1.jpg">
