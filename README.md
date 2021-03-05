@@ -5,7 +5,7 @@
 
 ### I. challenge1.logicdata :-
 
-1. Download the Logicdata file from [here](https://github.com/RanitPradhan/LOGICDATA/blob/master/challenge1.logicdata)
+1. Download the Logicdata file from [here](https://github.com/RanitPradhan/LOGICDATA/blob/master/challenge1.logicdata?raw=true)
 
 2. Open the `challenge1.logicdata` file and follow the steps
 
