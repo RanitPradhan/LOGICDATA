@@ -13,7 +13,7 @@
 
   <img src="https://github.com/RanitPradhan/LOGICDATA/blob/master/images/img_1.jpg">
 
-4. We need to take one annoation here. We can take two different annoations but no need to take for this problem.
+4. We need to take one annotation here. We can take two different annotations but no need to take for this problem.
 
   <img src ="https://github.com/RanitPradhan/LOGICDATA/blob/master/images/img_2.jpg">
 
